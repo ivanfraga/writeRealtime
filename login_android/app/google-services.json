@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748348958561",
+    "firebase_url": "https://ionic-d7b9d-default-rtdb.firebaseio.com",
+    "project_id": "ionic-d7b9d",
+    "storage_bucket": "ionic-d7b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748348958561:android:7e5e45619ff94d1f6e0720",
+        "android_client_info": {
+          "package_name": "com.example.firenoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748348958561-bgpr3hm60v8idfj89uou3v4oe2d3ntvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3BlATU9dHZdNK-oM9CO_LQwUpjAU_wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748348958561-bgpr3hm60v8idfj89uou3v4oe2d3ntvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
